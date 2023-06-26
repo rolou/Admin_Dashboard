@@ -3,7 +3,7 @@ package com.rvalencia.admindashboard.services;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.catalina.realm.JNDIRealm.User;
+
 import org.springframework.stereotype.Service;
 
 import com.rvalencia.admindashboard.models.Role;
